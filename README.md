@@ -22,7 +22,7 @@ MMORPG games are designed to be addictive. The more people that buy and play the
 
 7. [Facebook and YouTube addiction: The usage pattern of Malaysian students](http://ieeexplore.ieee.org.ezproxy.falmouth.ac.uk/document/8002516/)
 
-8. [Virtual reality against addiction](http://ieeexplore.ieee.org.ezproxy.falmouth.ac.uk/document/7148387/)
+8. [A Social Network Analysis of a Massively Multi-player On-Line Role Playing Game](http://ieeexplore.ieee.org.ezproxy.falmouth.ac.uk/document/7442428/)
 
 9. [When Too Much Usage is Too Much: Exploring the Process of IT Addiction](http://ieeexplore.ieee.org.ezproxy.falmouth.ac.uk/document/6759155/)
 
