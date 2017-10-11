@@ -3,6 +3,7 @@
 ## How do the core mechanics of MMORPG games lead to players getting addicted?
 
 In this essay I plan to address the mechanics used in MMORPG games that lead to them being addictive. Game addiction is most prominent in the MMORPG genre and has become a common occurrence. This paper will investigate how certain mechanics in this genre of game lead to player addiction. The main mechanics to analyse are levelling up, item drops and the ability to communicate with other players. 
+
 These games are designed to be addictive. The more people that buy and play the game the more successful it is. Many of these games follow a subscription model requiring the player to pay monthly to be able to play the game. Additional content is often released regularly to keep the player coming back for more. 
 
 
